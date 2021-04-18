@@ -1,0 +1,145 @@
+.main{
+max-height: 580px;
+max-width: 1295px;
+margin: 0px;
+}
+
+.header{
+    max-width: 1920px;
+    max-height: 81px;
+    background-color: #BE7B7B;
+    margin-bottom: 0;
+}
+
+.logo{
+width: 73px;
+height: 73px;
+padding-left: 137px;
+}
+
+.logo-text{
+margin: 0;
+display: inline-block;
+font-size: 30px;
+font-family: 'Roboto', sans-serif;
+color: #000;
+
+}
+.logo-text1{
+    display:inline-block;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    color: #000;
+} 
+.main-header{
+   float: right;
+   padding-right: 170px;
+    margin-top:10px;
+   margin-bottom: 0;
+    max-width: 700px;
+}
+.main-header2{
+    margin-top: 0;
+    padding-top: 20px;
+    background-color: #745E5E;
+    margin: auto;
+}
+
+.menu-item{
+    list-style: none;
+    display: inline-block;
+    position: relative;
+    padding-right: 15px;
+}
+.elements{
+display: inline-block;
+font-size: 20px;
+color: black;
+text-decoration: none;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.list{
+    
+    list-style: none;
+    display: inline-block;
+    
+    margin-right: 20px;
+   
+}
+.elements2{
+    margin-right: 50px;
+    font-size: 18px;
+    color: black;
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.title{
+
+text-align: center;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 30px;
+}
+.form{
+width: 710px;
+margin: auto;
+margin-bottom:50px;
+
+}
+.label{
+
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-align:center;
+display:block ;
+
+}
+.input{
+margin: auto;
+display:block;
+text-align: center;
+margin-bottom: 20px;
+
+}
+.button{
+    position: absolute;
+    width: 272px;
+    height: 40px;
+    left: 630px;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+.header-list{
+    
+    width: 1000px;
+    margin: auto;
+}
+.main-form{
+    height: 100%;
+    margin:0;
+    background-color: #ECDDDD;
+}
+.footerContaner{
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color:#BE7B7B ;
+    margin: 0;
+}
+.footerButton{
+right:200px;
+}
+.info{
+    display: inline-block;
+    padding-left: 50px;
+}
+.footerContact{
+    display: inline-block;
+    left: 15px;
+}
+.body{
+    height: 550px;
+    margin:0;
+    background-color: #ECDDDD;
+}
